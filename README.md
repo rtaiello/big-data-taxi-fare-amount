@@ -17,6 +17,11 @@ The metrics used is the Root Mean Square Error
 
 <img src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}}">
 
+#### Dataset:
+
+The dataset is composed by 5.31gb of CSV with 6 columns.
+We use 4.000.000 samples over 55.000.000 in the original dataset because we don't have a cluster to train the model with the entire dataset.
+
 ## Framework used:
 
 The technologies used to tackle the task are:
@@ -40,6 +45,6 @@ Then we move to the [Open Street Map routing project](https://github.com/Project
 
 Alphabetic order equal contribution
 
-*   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
 *   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
+*   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
 
