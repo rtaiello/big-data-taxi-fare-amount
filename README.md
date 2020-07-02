@@ -1,5 +1,6 @@
 
 # BigData-Taxi-Fare-Amount
+[![License: GPL v3](https://img.shields.io/badge/-Sapienza%20University%20of%20Rome-red)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
@@ -7,7 +8,7 @@ This repository contains the code used to face the kaggle challenge - Taxi Fare 
 This is a regression task, the goal is to be able to create a model capable of predicting the taxi fare in New York.<br>
 We presented this project during the Big Data exam at Sapienza University of Rome.
 
-For further details you can use the presentation slides.
+For further details you can use the presentation [slide](Taxi_Fare_Amount_slide.pdf).
 
 
 #### Metrics
@@ -33,10 +34,7 @@ For us the distance between two points is considered real if it meets 2 conditio
 
 To calculate this distance we start first using the Haversine Distance formula which calculates the air distance, but it does not take into account the type of vehicle and the presence of roads. We use the Haversine Distance as heuristic.
 
-Then we move to the Open Street Map routing project. We instanciate our OSMR API - Docker server and we calculate the real distance between two points.
-
-
-
+Then we move to the [Open Street Map routing project](https://github.com/Project-OSRM/osrm-backend). We instantiate our OSMR API - Docker server and we calculate the real distance between two points.
 
 
 ## Authors
