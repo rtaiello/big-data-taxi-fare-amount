@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the code used to face the [kaggle challenge](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) - Taxi Fare Amount organized by Google Cloud & Coursera.<br>
+This repository contains the code used to face the [kaggle challenge](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) - **Taxi Fare Amount** organized by *Google Cloud & Coursera*.<br>
 This is a regression task, the goal is to be able to create a model capable of predicting the taxi fare in New York.<br>
 We presented this project during the Big Data exam at Sapienza University of Rome.
 
@@ -47,4 +47,3 @@ Alphabetic order equal contribution
 
 *   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
 *   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
-
