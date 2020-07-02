@@ -1,3 +1,4 @@
+
 # BigData-Taxi-Fare-Amount
 
 ## Description
@@ -13,7 +14,8 @@ For further details you can use the presentation slides.
 
 The metrics used is the Root Mean Square Error
 
-$$RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}}$$
+<img src="https://render.githubusercontent.com/render/math?math=RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}}">
+
 ## Framework used:
 
 The technologies used to tackle the task are:
@@ -24,6 +26,7 @@ We have used Google Maps APIs (of which the code is not present), the Waze APIs 
 We have used the Light Gradient Boosting Machine Regressor as a model since the implementation of Microsoft Azure.
 
 ## Real distance:
+
 For us the distance between two points is considered real if it meets 2 conditions:
 1. It takes into account the shape of our planet
 2. It takes into account the roads and their signs that can be crossed by a car
