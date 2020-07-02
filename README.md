@@ -1,5 +1,5 @@
 
-# BigData-Taxi-Fare-Amount
+# BigData-Taxi-Fare-Amount 🚕 ... 🚕
 [![License: GPL v3](https://img.shields.io/badge/-Sapienza%20University%20of%20Rome-red)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
@@ -24,7 +24,7 @@ The main framework used is Spark, for data management and for Machine Learning a
 
 We have used Google Maps APIs (of which the code is not present), the Waze APIs (present code) and OpenStreetMap APIs.
 
-We have used the Light Gradient Boosting Machine Regressor as a model since the implementation of Microsoft Azure.
+We have used the [Light Gradient Boosting Machine Regressor](https://github.com/Azure/mmlspark/blob/master/docs/lightgbm.md) as a model since the implementation of Microsoft Azure.
 
 ## Real distance:
 
@@ -36,8 +36,10 @@ To calculate this distance we start first using the Haversine Distance formula w
 
 Then we move to the [Open Street Map routing project](https://github.com/Project-OSRM/osrm-backend). We instantiate our OSMR API - Docker server and we calculate the real distance between two points.
 
-
 ## Authors
 
-*   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
+Alphabetic order equal contribution
+
 *   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
+*   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
+
