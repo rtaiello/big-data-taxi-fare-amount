@@ -12,9 +12,8 @@ For further details you can use the presentation slides.
 #### Metrics
 
 The metrics used is the Root Mean Square Error
-```math
-RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}}
-```
+
+$$RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i} - \hat{y_{i}})^{2}}$$
 ## Framework used:
 
 The technologies used to tackle the task are:
