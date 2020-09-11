@@ -44,6 +44,6 @@ Then we move to the [Open Street Map routing project](https://github.com/Project
 ## Authors
 
 Alphabetic order equal contribution
-
-*   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
 *   **Andrea Bacciu**  - [github](https://github.com/andreabac3)
+*   **Riccardo Taiello**  - [github](https://github.com/riccardinho22)
+
