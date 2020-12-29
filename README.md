@@ -1,5 +1,5 @@
 
-# BigData-Taxi-Fare-Amount 🚕 ... 🚕
+# big-data-taxi-fare-amount 🚕 ... 🚕
 [![License: GPL v3](https://img.shields.io/badge/-Sapienza%20University%20of%20Rome-red)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
